@@ -1,9 +1,6 @@
 # Hummingbird---Prog-Info---Rep
 
-Repositório com informações uteis referentes a:
-hardware
-software
-competição
+Repositório com informações uteis referentes a hardware/software/competição
 
 ## Assutos abordados
 
