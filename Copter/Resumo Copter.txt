@@ -1,0 +1,16 @@
+Copter é um sistema avançado (open source) para quadcopteros(etc)
+
+
+"As part of the wider ArduPilot software platform it works seamlessly with a variety of Ground Control Station programs that are used to setup the vehicle, monitor the vehicle’s flight in real-time and perform powerful mission planning activities. It also benefits from other parts of the Ardupilot ecosystem, including simulators, log analysis tools, and higher level APIs for vehicle control."
+
+Key features include:
+
+-High precision acrobatic mode: perform agressive maneuvers including flips!
+-Auto-level and Altitude Hold modes: Fly level and straight with ease or add simple mode which removes the need for the pilot to keep track of the vehicle’s heading. Just push the stick the way you want the vehicle to go, and the autopilot figures out what that means for whatever -orientation the copter is in.
+-Loiter and PosHold modes: the vehicle will hold its position using its GPS, accelerometers and barometer.
+-Return to launch: Flip a switch to have Copter fly back to the launch location and land automatically.
+-Ad-hoc commands in Flight : With a two-way telemetry radio installed, just click on the map and the vehicle will fly to the desired location.
+-Autonomous missions: Use the ground station to define complex missions with up to hundreds of GPS waypoints. Then switch the vehicle to “AUTO” and watch it take-off, execute the mission, then return home, land and disarm all without any human intervention.
+-Failsafes: The software monitors the state of the system and triggers an autonomous return-to-home in case of loss of contact with the pilot, low battery or the vehicle strays outside a defined geofence.
+-Flexible and customizable: Copter can fly all shapes and sizes of vehicles just how you want it to because the user has access to hundreds of parameters that control its behaviour. You won’t need to touch most of them but they are there if you need them.
+-No vendor lock-in: ArduPilot is fully open source with a diverse community of developers behind it. You remain in full control of what software is on your vehicle and how it performs.

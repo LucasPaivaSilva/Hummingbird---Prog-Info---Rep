@@ -1,0 +1,10 @@
+PODE SER USADO PARA CONFIGURAR OU PARA CONTROLAR
+
+Mission Planner is a ground control station for Plane, Copter and Rover. It is compatible with Windows only. Mission Planner can be used as a configuration utility or as a dynamic control supplement for your autonomous vehicle.
+
+
+INTERFACE
+
+-Permite configurar pontos
+-Criar Rotas
+-Dentre outros
