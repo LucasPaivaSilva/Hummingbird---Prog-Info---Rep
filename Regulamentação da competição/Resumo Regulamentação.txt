@@ -4,3 +4,15 @@ Parte de Saúde
 
 Áreas Operacionais
 -> Caso alguém esteja sem a identificação(ou sem a carteirinha), a equipe pode ser penalizada
+
+Ajuda Externa
+-> Todas as decisões relativas ao processo criativo, pesquisa, etc devem ser tomadas pelos membros da equipe.
+
+Juízes, Fiscais e Comissão
+-> Juízes e fiscais são os principais instrumentos de medida para qualquer decisão tomada.
+-> Nenhuma decisão tomada pelos mesmo será revogada.
+
+Requisitos referentes ao Sei na
+-> Asa rotativa
+-> Classe 450(450mm entre os centros dos motores)
+-> Configuração de 4 motores
