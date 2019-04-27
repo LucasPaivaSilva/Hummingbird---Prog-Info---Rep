@@ -12,7 +12,13 @@ Juízes, Fiscais e Comissão
 -> Juízes e fiscais são os principais instrumentos de medida para qualquer decisão tomada.
 -> Nenhuma decisão tomada pelos mesmo será revogada.
 
-Requisitos referentes ao Sei na
+Requisitos referentes ao Drone
 -> Asa rotativa
 -> Classe 450(450mm entre os centros dos motores)
 -> Configuração de 4 motores
+-> Motores Iguais, brushless, entre 700kv e 1500kv
+-> 4 hélices de 8 a 12 polegadas em diâmetro e 3 a 6 polegadas de passo.
+-> Duas em um sentido e duas no outro 
+-> 4 ESCs iguais
+-> Ardupilot 2.6
+-> Protetores na hélice 
