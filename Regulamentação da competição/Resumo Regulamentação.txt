@@ -12,6 +12,12 @@ Juízes, Fiscais e Comissão
 -> Juízes e fiscais são os principais instrumentos de medida para qualquer decisão tomada.
 -> Nenhuma decisão tomada pelos mesmo será revogada.
 
+Documentos importantes
+-> Regulamento SAE BRASIL Formula Drone 2018
+-> Procedimentos Operacionais – SAE BRASIL Formula Drone 2018
+-> Termo de Responsabilidade SAE BRASIL Formula Drone 2018
+-> Mensagens e Informativos gerais
+
 Requisitos referentes ao Drone
 -> Asa rotativa
 -> Classe 450(450mm entre os centros dos motores)
@@ -22,3 +28,42 @@ Requisitos referentes ao Drone
 -> 4 ESCs iguais
 -> Ardupilot 2.6
 -> Protetores na hélice 
+
+Estação de Solo
+-> A equipe deverá possuir uma estação de solo, através da qual será acompanhado o
+voo realizado pela aeronave.
+-> Caso a aeronave possua equipamento GPS para localização, a estação de solo deverá
+exibir a posição da aeronave durante o voo. A estação de solo também deverá prover
+informações sobre o modo operacional da aeronave: Manual ou Autônomo.
+
+Competição de Voo
+-> A competição de voo será dividida em duas partes, sendo uma primeira etapa para
+configuração das aeronaves, a qual será realizada na SOMENTE no dia 02 de agosto
+(dia das Apresentações Orais) e posteriormente os voos para realização das missões. 
+
+Tempo para o setup da aeronava
+-> 1 janela de 10 minutos
+
+Tempo para o cumprimento das missões
+-> As equipes terão 15 minutos de intervalo de tempo (janela de voo) para realizar todas
+as missões. Após a primeira bateria este tempo poderá ser modificado pela Comissão
+Técnica (para mais ou para menos) com objetivo de otimizar e/ou agilizar a competição
+e garantir, conforme a necessidade, uma bateria completa para todas as equipes antes
+do encerramento dos voos.
+
+Inspeção de segurança
+-> Haverá uma inspeção de segurança antes do início de cada janela de voo. A listagem
+dos itens a serem inspecionados será disponibilizada para as equipes, a fim de que
+estejam com a aeronave devidamente preparada para o voo.
+-> Serão permitidos, no máximo, 5 alunos na área de inspeção de segurança. Será
+proibida a presença de professores na área de inspeção.
+-> Somente será permitido o início do voo com as baterias a bordo da aeronave
+totalmente carregadas. Isso inclui tanto a(s) bateria(s) de alimentação dos motores
+como a(s) bateria(s) para os payloads, se houver. Será considerada bateria totalmente
+carregada aquela que cumpra: Vbatt >= 0.95 x Vmax (Vmax depende do tipo da bateria e
+do número de células; ex.: LiPo 3S, Vmax = 3x4.2V = 12.6V, Vbatt >= 0.95x12.6V =
+11.97V).
+-> O sistema de controle de voo deve possuir um modo de segurança que faça com que
+a aeronave pouse automaticamente e de forma controlada imediatamente após o
+acionamento desse modo. 
+
