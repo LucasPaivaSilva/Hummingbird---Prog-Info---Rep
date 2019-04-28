@@ -1,0 +1,19 @@
+Missões e Pontuações
+
+-> As aeronaves devem ser projetadas de forma a serem capazes de cumprir diversas
+missões distintas, para as quais são atribuídos pontos conforme o desempenho da
+equipe. A pontuação total de voo é composta pela somatória de pontos obtidos em
+cada missão.
+-> As equipes poderão realizar as missões quantas vezes desejarem, respeitando o
+tempo limite de sua janela de voo, sendo a maior pontuação de cada missão
+considerada para a pontuação final.
+-> A equipe pode optar por não realizar quaisquer missões, não recebendo pontuação nas
+missões não executadas (pontuação 0).
+-> definição da ordem da execução das missões é de responsabilidade da equipe, que
+deve informar aos juízes de voo qual missão será executada antes de iniciar a
+execução.
+
+
+
+
+
