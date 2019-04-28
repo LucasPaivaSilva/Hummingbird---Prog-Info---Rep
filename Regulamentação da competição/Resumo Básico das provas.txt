@@ -13,6 +13,24 @@ missões não executadas (pontuação 0).
 deve informar aos juízes de voo qual missão será executada antes de iniciar a
 execução.
 
+Missão 1 (M1): Decolagem A decolagem se dará de um ponto pré-definido no campo de competição. A aeronave deverá ser capaz de se deslocar verticalmente de maneira estabilizada, controlada e segura até uma altura segura para iniciar as outras missões. As demais missões somente poderão ser realizadas se a missão M1 for realizada com sucesso. 
+
+Missão 2 (M2): Medição de Alvo Uma região geométrica será disposta em uma determinada zona da competição. A aeronave deverá ser capaz de informar a área da região com a maior precisão possível. O tipo de região geométrica será divulgado apenas no momento da competição, devendo as equipes estarem preparadas para realizar as medidas independentemente da forma geométrica escolhida pela Comissão Técnica. A figura abaixo exemplifica, esquematicamente, uma região geométrica passível de ser escolhida e posicionada sobre o gramado. 
+
+Missão 3 (M3): Alijamento Dinâmico de Objeto em Alvo A aeronave deverá ser capaz de alijar um prisma retangular de aproximadamente 60 x 40 x 15 mm, de aproximadamente 30g, fornecido pela organização, de uma altura acima de 3,5 metros a qual será definida por um obstáculo composto de uma barra horizontal suportada por duas barras verticais conforme a figura abaixo.  
+
+Missão 4 (M4): Passagem por frames A aeronave deverá fazer uma passagem por 3 frames, de formatos triângulo, quadrado e hexágono, de aproximadamente 1,2 m de lado cada um. 
+Os frames serão demarcados nas faces internas do polígono e nas faces frontais das arestas, com fitas adesivas com cores ainda a serem definidas pela Comissão. O objetivo é aumentar o contraste entre partes internas e frontais de forma a facilitar visualização da geometria bem como prover melhor noção de profundidade e referencia para o Drone e/ou piloto. 
+A disposição dos frames será definida pela Comissão Técnica antes de cada janela de Voo e as coordenadas do centro de cada frame serão fornecidas pela Comissão Técnica no dia da competição de voo em um tempo hábil antes das janelas de voo. 
+
+Missão 5 (M5): Transporte de Carga entre dois Pontos A aeronave deverá ser capaz de transportar uma carga de um Ponto A até um Ponto B dentro do campo de voo.  
+Esta carga deve ser um prisma, confeccionado pela equipe com peso mínimo de 65g e máximo a critério da equipe, sendo que a pontuação obtida é diretamente proporcional ao peso transportado.
+A equipe poderá alterar a massa da carga transportada entre janelas de voo ou mesmo dentro de uma mesma janela de voo. Durante um voo não poderá haver modificação da carga, ou seja, nenhuma carga poderá ser alijada nesta missão. 
+A aeronave deverá coletar a carga no Ponto A e transportá-la até o Ponto B. As coordenadas destes pontos serão definidas no dia da Competição de Voo e divulgadas as equipes com a devida antecedência.  
+A aeronave deve coletar a carga da forma que a equipe definir (eletroímã, gancho, etc.) devendo levá-la até o Ponto B onde esta deverá ser colocada (pousada) de forma suave sobre a plataforma do Ponto B. Cargas alijadas ou soltas sem o devido controle invalidam a missão.  Não poderá haver intervenção de uma pessoa na captura ou liberação da carga. A ‘conexão’ e ‘desconexão’ da carga em relação à aeronave deve ser remota ou automática. 
+Na decolagem subsequente do Drone após a entrega, a carga deverá permanecer dentro da área da entrega para que a missão seja considerada válida.   IMPORTANTE: É proibido o uso de Chumbo (Pb) como carga. 
+
+
 
 
 
